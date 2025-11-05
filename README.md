@@ -14,7 +14,7 @@ LoRA_텍스트_생성_HF_모델
 ## 모델 설명
 base_model: skt/kogpt2-base-v2
 ## 모델 상세
-
+언어 : 한국어
 ## LoRA 설정
 
 ## 학습 설정
